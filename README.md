@@ -3,4 +3,4 @@ Collection of cool python scripts
 
 ## Contributing
 
-Create a fork where you create a subfolder with the sname of your script/project. Then upload your project in the subfolder. When done create a pull request with the fork.
+Follow these guidelines https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/CONTRIBUTING_GUIDELINES.md
