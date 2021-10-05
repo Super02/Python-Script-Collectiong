@@ -2,5 +2,4 @@
 Collection of cool python scripts
 
 ## Contributing
-
-Follow these guidelines https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/CONTRIBUTING_GUIDELINES.md
+Use this readme.md file https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/.github/readme_template.md.
