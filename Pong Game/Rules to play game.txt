@@ -1,0 +1,7 @@
+For Right paddle --->
+    Use "Up arrow" Key to move right paddle up
+    Use "Down arrow" Key to move right paddle Down
+
+For Left Paddle --->
+    Use "W" key to move left paddle up   
+    Use "S" key to move left paddle down  
